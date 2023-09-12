@@ -1,0 +1,7 @@
+{
+  "contract_status": ["Draft", "Active", "Completed"],
+  "main_menu": ["Work with projects", "Work with contracts", "View the list of current projects","View the list of current contracts", "Complete the work"],
+  "project_menu": ["Create a project", "Add a contract to the project", "Complete a contract", "View the contract, that belongs to the current project", "View the list of current projects","View the list of current contracts", "Shutdown of the current menu"],
+  "contract_menu": ["Create a contract", "Confirm a contract", "Complete a contract", "View the list of current projects","View the list of current contracts", "Shutdown of the current menu"],
+  "view_contract_menu": ["View contracts with 'Draft' status", "View contracts with 'Active' status", "View contracts with 'Completed' status", "View all contracts", "Shutdown of the current menu"]
+}
